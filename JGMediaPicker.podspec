@@ -7,7 +7,7 @@
 Pod::Spec.new do |s|
   s.name         = "JGMediaPicker"
   s.version      = "0.0.1"
-  s.summary      = ""
+  s.summary      = "Meida Picker for iOS"
   s.homepage     = "https://github.com/jaminguy/JGMediaPicker"
   s.license      = 'mit'
   s.author       = "jaminguy"
